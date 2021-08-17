@@ -6,3 +6,5 @@ My Resolusi :
   - Pergi ke luar negeri
   - menjadi kaya
   - Menguasai JS
+    -Vue js
+    -React js
